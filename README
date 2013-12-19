@@ -1,1 +1,5 @@
+Haskell interface for antigate.com captcha recognition service 
+http://hackage.haskell.org/package/antigate
 
+
+A good tool to use to bypass the captcha check in most websites that use them.
